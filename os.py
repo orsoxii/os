@@ -5,7 +5,7 @@ direcs = {
             "/directory": {
                 "hello"
             },
-            "/mnt"{
+            "/mnt": {
                 
             }
 
